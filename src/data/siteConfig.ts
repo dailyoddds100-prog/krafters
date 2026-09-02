@@ -5,7 +5,7 @@ export const SITE_CONFIG = {
   priceFormatted: "₦75,000",
   deliveryTime: "5–7 Days",
   deliveryDisclaimer: "Delivery time begins once all required content, information and assets have been received.",
-  whatsappNumber: (import.meta.env.VITE_WHATSAPP_NUMBER as string) || "2349123456789",
+  whatsappNumber: (import.meta.env.VITE_WHATSAPP_NUMBER as string) || "2349128434563",
   formApiUrl: (import.meta.env.VITE_FORM_API_URL as string) || "/api/submit-project",
   supportEmail: "hello@krafters.ng",
   packageFeatures: [
